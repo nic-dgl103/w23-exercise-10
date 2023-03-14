@@ -160,7 +160,9 @@ footer .disclaimer img {
 
 /* Medium devices (ipads, 768px and up) */
 @media only screen and (min-width: 768px) {
-  header, main {
+
+  header,
+  main {
     padding: 0 32px;
   }
 
