@@ -20,7 +20,8 @@ Start the process by viewing the web page at a small window size to simulate wha
   #### Responsive menu on mobile:
   ![Image of mobile webpage](images/mobile-close.png)
   ![Image of mobile webpage with open menu](images/mobile-open.png)
-  #### Responsive menu on ipad (Select iPad Air from the browser Dimensions drop down menu):
+  #### Responsive menu on ipad:
+  (Select iPad Air from the browser Dimensions drop down menu)
   ![Image of ipad menu](images/ipad-menu.png)
 
 ### 3. Style the rest of the content for ipad
