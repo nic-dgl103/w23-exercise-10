@@ -1,4 +1,4 @@
-# Week 10 Exercise - Floats and Positioning
+# Week 10 Exercise - Floats and Responsive Menu
 
 ## Objectives
 You will use the provided HTML and CSS as a starting point, and add a responsive menu to it. You will also change the layout at different breakpoints so that it looks like the provided examples and works on all screen sizes up to 1024px wide. You can only use floats to move content around on the page. You cannot use flexbox for anything.
@@ -25,7 +25,7 @@ Start the process by viewing the web page at a small window size to simulate wha
   ![Image of ipad menu](images/ipad-menu.png)
 
 ### 3. Style the rest of the content for ipad
-  3. Add all the HTML and CSS necessary to make the page look like the example below. You can use floats and you can use any display value except for flex and grid. (Tip: You can use the margin's auto value to center content on the screen):<br>
+  Add all the HTML and CSS necessary to make the page look like the example below. You can use floats and you can use any display value except for flex and grid. (Tip: You can use the margin's auto value to center content on the screen):<br>
   ![Image of ipad webpage](images/ipad-full.png)
 
 ### 4. Create another breakpoint for large screens
