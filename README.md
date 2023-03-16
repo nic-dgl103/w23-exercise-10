@@ -1,7 +1,7 @@
 # Week 10 Exercise - Floats and Responsive Menu
 
 ## Objectives
-You will use the provided HTML and CSS as a starting point, and add a responsive menu to it. You will also change the layout at different breakpoints so that it looks like the provided examples and works on all screen sizes up to 1024px wide. You can only use floats to move content around on the page. You cannot use flexbox for anything.
+You will use the provided HTML and CSS as a starting point, and add a responsive menu to it. You will also change the layout at different breakpoints so that it looks like the provided examples and works on all screen sizes up to 1024px wide. You can only use floats and positioning to move content around on the page. You cannot use flexbox for anything.
 
 ## Instructions
 Remember to make regular commits with descriptive labels.
@@ -16,7 +16,7 @@ Start the process by viewing the web page at a small window size to simulate wha
   1. With the webpage open in Chrome, right-click > Inspect. 
   2. In the DevTools window, click on the Toggle Device button (in top left-hand corner).
   3. In the browser window, select iPhone SE from the Dimensions drop down menu.
-  4. Open a new browser tab and go to https://codepen.io/AskClaireGuiot/pen/rNZdPWq. Use the code in this codepen as inspiration to add a responsive menu to your webpage. The codepen uses flexbox, you must replace flexbox with other layout methods. When you are finished, the header should look like the examples below. The hamburger icon disappears, and the menu list appears permanently on screens wider than 768px. <br>
+  4. Open a new browser tab and go to https://codepen.io/AskClaireGuiot/pen/rNZdPWq. Use the code in this codepen as inspiration to add a responsive menu to your webpage. The codepen uses flexbox, you must replace flexbox with other layout methods (floats and positioning). When you are finished, the header should look like the examples below. The hamburger icon disappears, and the menu list appears permanently on screens wider than 768px. <br>
   #### Responsive menu on mobile:
   ![Image of mobile webpage](images/mobile-close.png)
   ![Image of mobile webpage with open menu](images/mobile-open.png)
